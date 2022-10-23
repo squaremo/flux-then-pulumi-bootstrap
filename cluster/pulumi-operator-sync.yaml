@@ -11,4 +11,5 @@ spec:
   sourceRef:
     kind: GitRepository
     name: pulumi-operator-repo
+  targetNamespace: default
 
